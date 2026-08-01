@@ -6,6 +6,8 @@
 - 👯 I’m looking to collaborate on **Open Source Backend Projects**
 - 💬 Ask me about **Python, FastAPI, and Database Optimization**
 - 📫 How to reach me: **goharrehmanfsd260@gmail.com**
+- 🧑‍💻 Fun fact: **I love structural architecture and clean system code**
+
 
 
 
