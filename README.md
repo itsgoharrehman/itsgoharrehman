@@ -12,8 +12,10 @@
 ### 🛠️ My Tech Stack
 
 | Frontend | Backend & Core | Databases & Caching | Tools |
-| :--- | :--- | :--- | :--- |
+|  | :--- | :--- | :--- |
 
+
+| ![HTML5](https://shields.io) | | | |
 
 
 
