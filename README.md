@@ -2,15 +2,15 @@
 
 # GOHAR REHMAN
 
-### SOFTWARE ENGINEER · BACKEND & EDGE ARCHITECTURE
+### SOFTWARE ENGINEER · BACKEND DEVELOPER
 
-`Faisalabad, Pakistan` · `goharrehmanfsd260@gmail.com`
+`Pakistan` | `goharrehmanfsd260@gmail.com`
 
 ---
 
 </div>
 
-## Engineering Overview
+## About Me
 
 Software Engineering student at **Government College University Faisalabad** (`2023 — 2027`) and former Python Development Intern at **DecodeLabs**.
 
