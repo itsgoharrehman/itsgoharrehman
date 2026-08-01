@@ -4,5 +4,7 @@
 - 🔭 I’m currently working on building high-performance **Backend Services**
 - 🌱 I’m currently learning and optimizing **Data Structures & Algorithms**
 - 👯 I’m looking to collaborate on **Open Source Backend Projects**
+- 💬 Ask me about **Python, FastAPI, and Database Optimization**
+
 
 
