@@ -12,8 +12,7 @@
 ### 🛠️ My Tech Stack
 
 | Frontend | Backend & Core | Databases & Caching | Tools |
-
-| ... | ![Python](...) ![FastAPI](...) <br> **Focus:** Algorithms | | |
+| ... | ... | ![PostgreSQL](https://shields.io) | |
 
 
 
