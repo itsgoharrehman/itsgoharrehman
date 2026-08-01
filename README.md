@@ -4,222 +4,362 @@
 
 ### SOFTWARE ENGINEER
 
-**Backend Development · API Engineering · Systems**
+**Backend Systems · API Engineering · Cloud Infrastructure**
 
 <br>
 
 <a href="https://www.linkedin.com/in/iamgoharrehman/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
 </a>
+&nbsp;
 <a href="https://github.com/itsgoharrehman">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white">
 </a>
+&nbsp;
 <a href="mailto:goharrehmanfsd260@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=flat-square&logo=gmail&logoColor=white">
 </a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=3776AB">
+<img src="https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi&logoColor=009688">
+<img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=4169E1">
+<img src="https://img.shields.io/badge/Redis-111111?style=flat-square&logo=redis&logoColor=DC382D">
+<img src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=2496ED">
+<img src="https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=FCC624">
+
+</div>
+
+<br>
+
+<table>
+<tr>
+<td width="68%" valign="top">
+
+### BACKEND ENGINEER
+
+I build backend applications around **Python, APIs, databases, and infrastructure**.
+
+My work covers API design, authentication, database architecture, caching, background processing, and deployment.
+
+Currently focused on building stronger backend systems with **FastAPI, PostgreSQL, Redis, Docker, Linux, and Cloudflare**.
+
+</td>
+
+<td width="32%" valign="top">
+
+### BASE
+
+**Gohar Rehman**
+Software Engineer
+
+`Faisalabad, Pakistan`
+
+**GCU Faisalabad**
+B.S. Software Engineering
+
+`2023 — 2027`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+[ **ABOUT** ](#about)   
+[ **STACK** ](#stack)   
+[ **PROJECTS** ](#projects)   
+[ **CURRENT** ](#current)   
+[ **CONTACT** ](#contact)
 
 </div>
 
 ---
 
-## PROFILE
+<a id="about"></a>
 
-Software Engineer focused on backend development and API engineering.
+## ABOUT
 
-I build web APIs, backend services, database-driven applications, and application infrastructure using Python and modern backend technologies.
+<table>
+<tr>
+<td width="25%" align="center">
 
-Currently pursuing a **Bachelor of Software Engineering at Government College University Faisalabad (2023–2027)**.
+**BACKEND**
 
----
+API & service development
 
-## TECHNICAL SKILLS
+</td>
+<td width="25%" align="center">
 
-### Languages
+**DATA**
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000">
-</p>
+Databases & caching
 
-### Backend
+</td>
+<td width="25%" align="center">
 
-<p>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-<img src="https://img.shields.io/badge/REST%20APIs-111111?style=for-the-badge">
-<img src="https://img.shields.io/badge/Authentication-111111?style=for-the-badge">
-<img src="https://img.shields.io/badge/API%20Design-111111?style=for-the-badge">
-</p>
+**INFRA**
 
-### Databases
+Containers & cloud
 
-<p>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
-<img src="https://img.shields.io/badge/Cloudflare%20D1-F38020?style=for-the-badge&logo=cloudflare&logoColor=white">
-</p>
+</td>
+<td width="25%" align="center">
 
-### Infrastructure
+**SYSTEMS**
 
-<p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white">
-</p>
+Architecture & integration
 
-### Cloud & Backend Infrastructure
+</td>
+</tr>
+</table>
 
-<p>
-<img src="https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white">
-<img src="https://img.shields.io/badge/R2-F38020?style=for-the-badge&logo=cloudflare&logoColor=white">
-<img src="https://img.shields.io/badge/KV-F38020?style=for-the-badge&logo=cloudflare&logoColor=white">
-<img src="https://img.shields.io/badge/Drizzle%20ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=000">
-</p>
+<br>
+
+I prefer building the parts of software that sit behind the interface: **services, APIs, data models, authentication, queues, caching, and infrastructure**.
+
+The goal is straightforward: readable code, predictable APIs, sensible data architecture, and systems that are practical to deploy and maintain.
 
 ---
 
-## ENGINEERING AREAS
+<a id="stack"></a>
 
-| Area               | Focus                                                   |
-| :----------------- | :------------------------------------------------------ |
-| **Backend**        | API development, service architecture, request handling |
-| **Databases**      | PostgreSQL, MongoDB, schema design, queries             |
-| **Authentication** | Auth flows, sessions, authorization                     |
-| **Caching**        | Redis, KV, application caching                          |
-| **Infrastructure** | Docker, Linux, Cloudflare                               |
-| **Development**    | Git, GitHub, REST APIs, application architecture        |
+## STACK
 
----
+### LANGUAGES
 
-## SELECTED PROJECTS
+`Python` `JavaScript`
 
-### 01 — DiginixIT
+### BACKEND
 
-**Business & Digital Services Platform**
+`FastAPI` `REST` `API Design` `Authentication` `Authorization`
 
-A full web platform for digital services, content management, authentication, pricing, and administration.
+### DATABASE
 
-**Architecture**
+`PostgreSQL` `MongoDB` `Redis` `Cloudflare D1`
 
-`HTML` `CSS` `JavaScript` `Cloudflare Workers` `D1` `R2` `KV` `Better Auth` `Drizzle`
+### CLOUD
 
-[Repository →](https://github.com/itsgoharrehman/diginixit)
+`Cloudflare Workers` `R2` `KV`
 
----
+### INFRASTRUCTURE
 
-### 02 — Vault
+`Docker` `Linux` `Git` `GitHub`
 
-**Password Management Application**
+### DATA / TOOLING
 
-Backend-driven password management application with authentication, encrypted data handling, and persistent database storage.
-
-**Stack**
-
-`Python` `PostgreSQL` `REST API` `Authentication`
-
-[Repository →](https://github.com/itsgoharrehman/vault)
+`Drizzle ORM` `Better Auth`
 
 ---
 
-### 03 — Email Router API
+<a id="projects"></a>
 
-**Email Processing Backend**
+## PROJECTS
 
-API service designed around email routing and backend processing workflows.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Stack**
+### DiginixIT
 
-`Python` `FastAPI` `PostgreSQL` `REST API`
+**Digital Services Platform**
 
-[Repository →](https://github.com/itsgoharrehman/email-router-api)
+A full platform for digital services, content, pricing, authentication, and administration.
 
----
+<br>
 
-### 04 — WireCanvas
+`Workers` `D1` `R2` `KV`
+`Better Auth` `Drizzle`
 
-**Browser-Based Wireframing Tool**
+<br>
 
-Low-fidelity wireframe editor built with vanilla web technologies without a frontend framework.
+<a href="https://github.com/itsgoharrehman/diginixit-1">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-111111?style=flat-square&logo=github&logoColor=white">
+</a>
 
-**Stack**
+</td>
+
+<td width="50%" valign="top">
+
+### Vault
+
+**Password Management**
+
+Backend application built around a Python service and PostgreSQL persistence.
+
+<br>
+
+`Python` `PostgreSQL`
+`REST API` `Authentication`
+
+<br>
+
+<a href="https://github.com/itsgoharrehman/vault">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-111111?style=flat-square&logo=github&logoColor=white">
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Email Router API
+
+**Email Processing Service**
+
+Backend API for routing and processing email workflows.
+
+<br>
+
+`Python` `FastAPI`
+`PostgreSQL` `REST API`
+
+<br>
+
+<a href="https://github.com/itsgoharrehman/email-router-api">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-111111?style=flat-square&logo=github&logoColor=white">
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### WireCanvas
+
+**Wireframing Tool**
+
+Browser-based low-fidelity wireframe editor built without a frontend framework.
+
+<br>
 
 `HTML` `CSS` `JavaScript`
 
-[Repository →](https://github.com/itsgoharrehman/wirecanvas)
+<br>
+
+<a href="https://github.com/itsgoharrehman/wirecanvas">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-111111?style=flat-square&logo=github&logoColor=white">
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+<a id="current"></a>
+
+## CURRENT
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**01**
+
+### Backend
+
+Building APIs and backend services with Python and FastAPI.
+
+</td>
+<td width="33%" valign="top">
+
+**02**
+
+### Infrastructure
+
+Working with Docker, Linux, Redis, and Cloudflare.
+
+</td>
+<td width="33%" valign="top">
+
+**03**
+
+### Architecture
+
+Improving database design, authentication, service structure, and system design.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+`PYTHON` `FASTAPI` `POSTGRESQL` `REDIS` `DOCKER` `LINUX` `CLOUDFLARE`
 
 ---
 
 ## EXPERIENCE
 
-### Python Development Intern
+<table>
+<tr>
+<td width="25%">
 
-**DecodeLabs**
+**DECODELABS**
 
-Worked on Python-based development and backend-oriented tasks in a professional development environment.
+Python Development Intern
 
-`Python` `Backend Development` `APIs`
+</td>
+<td width="75%">
+
+Python development and backend-oriented engineering work in a professional development environment.
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## EDUCATION
 
-### Bachelor of Software Engineering
-
-**Government College University Faisalabad**
-
+**Bachelor of Software Engineering**
+Government College University Faisalabad
 `2023 — 2027`
 
 ---
 
-## CURRENTLY WORKING WITH
-
-<div align="center">
-
-`PYTHON` · `FASTAPI` · `POSTGRESQL` · `REDIS` · `DOCKER` · `LINUX` · `CLOUDFLARE`
-
-</div>
-
----
-
-## GITHUB ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=itsgoharrehman&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent" height="170">
-
-<img src="https://streak-stats.demolab.com?user=itsgoharrehman&hide_border=true&theme=transparent" height="170">
-
-</div>
-
----
+<a id="contact"></a>
 
 ## CONTACT
 
-<div align="center">
+<table>
+<tr>
+<td width="33%" align="center">
 
-<a href="mailto:goharrehmanfsd260@gmail.com">
-<img src="https://img.shields.io/badge/goharrehmanfsd260%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+**EMAIL**
 
-<br><br>
+[goharrehmanfsd260@gmail.com](mailto:goharrehmanfsd260@gmail.com)
 
-<a href="https://www.linkedin.com/in/iamgoharrehman/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+</td>
+<td width="33%" align="center">
 
-<a href="https://github.com/itsgoharrehman">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
+**LINKEDIN**
 
-</div>
+[Profile](https://www.linkedin.com/in/iamgoharrehman/)
+
+</td>
+<td width="33%" align="center">
+
+**GITHUB**
+
+[itsgoharrehman](https://github.com/itsgoharrehman)
+
+</td>
+</tr>
+</table>
 
 <br>
 
 <div align="center">
 
+<img src="https://img.shields.io/badge/BACKEND-ENGINEERING-111111?style=flat-square">
+<img src="https://img.shields.io/badge/PYTHON-FASTAPI-111111?style=flat-square">
+<img src="https://img.shields.io/badge/SYSTEMS-API-INFRA-111111?style=flat-square">
+
+<br><br>
+
 **GOHAR REHMAN**
-Software Engineer · Backend Development
 
 </div>
