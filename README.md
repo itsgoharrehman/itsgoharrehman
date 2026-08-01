@@ -8,6 +8,11 @@
 - 📫 How to reach me: **goharrehmanfsd260@gmail.com**
 - 🧑‍💻 Fun fact: **I love structural architecture and clean system code**
 
+---
+### 🛠️ My Tech Stack
+
+| Frontend | Backend & Core | Databases & Caching | Tools |
+| :--- | :--- | :--- | :--- |
 
 
 
