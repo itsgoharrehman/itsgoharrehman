@@ -13,7 +13,8 @@
 
 | Frontend | Backend & Core | Databases & Caching | Tools |
 
-| ... | ![Python](https://shields.io) | | |
+| ... | ![Python](https://shields.io) ![FastAPI](https://shields.io) | | |
+
 
 
 
