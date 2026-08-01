@@ -12,7 +12,8 @@
 ### 🛠️ My Tech Stack
 
 | Frontend | Backend & Core | Databases & Caching | Tools |
-| ... | ... | ![PostgreSQL](https://shields.io) | |
+| ... | ... | ![PostgreSQL](https://shields.io) ![Redis](https://shields.io) | |
+
 
 
 
