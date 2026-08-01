@@ -22,12 +22,12 @@ I architect high-throughput backend services, serverless edge runtimes, and resi
 
 | Domain | Infrastructure & Technologies |
 | :--- | :--- |
-| **Core Languages** | Python (3.11+), JavaScript, TypeScript, SQL |
-| **Backend & APIs** | FastAPI, RESTful Architecture, AsyncIO, Express |
+| **Core Languages** | Python, JavaScript, TypeScript, SQL |
+| **Frontend** | HTML, CSS, Bootstrap, Tailwind |
+| **Backend & APIs** | FastAPI, RESTful Architecture, AsyncIO |
 | **Databases** | PostgreSQL, Redis, Cloudflare D1 (SQLite), MongoDB |
-| **Cloud & Edge** | Cloudflare Workers, Cloudflare R2, Cloudflare KV, Docker, Linux, Git |
-| **Tooling & Auth** | Drizzle ORM, Better Auth, Pytest |
-
+| **Cloud & Deployments** | Cloudflare, AWS, Netlify, Vercel, Docker, Github |
+| **Tooling & Auth** | Drizzle ORM, Better Auth, Pytest, Git, Linux |
 ---
 
 ## Featured Work
@@ -73,17 +73,6 @@ I architect high-throughput backend services, serverless edge runtimes, and resi
 
 - Built a high-performance browser-native wireframing canvas with zero runtime dependencies.
 - Implemented canvas event loops and state manipulation using vanilla JavaScript.
-
----
-
-## Experience & Background
-
-```
-2023 — 2027   Software Engineering Student @ GCU Faisalabad
-2024 — 2024   Python Development Intern @ DecodeLabs
-```
-
----
 
 ## Connect
 
