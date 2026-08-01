@@ -1,76 +1,88 @@
 # Gohar Rehman
 
-**Software Engineer — Backend & Distributed Systems**  
+**Software Engineer · Backend & Edge Architecture**  
 Faisalabad, Pakistan · [goharrehmanfsd260@gmail.com](mailto:goharrehmanfsd260@gmail.com) · [LinkedIn](https://www.linkedin.com/in/iamgoharrehman/) · [GitHub](https://github.com/itsgoharrehman)
 
 ---
 
-## Executive Summary
+### About
 
-Software Engineering student at GCU Faisalabad with hands-on experience in backend service design, edge computing, and API development. Specialized in building asynchronous APIs using **Python (FastAPI)**, serverless edge architectures with **Cloudflare Workers**, and structured data systems with **PostgreSQL** and **Redis**. Focused on write-efficient database design, authentication security, and scalable infrastructure.
+Software Engineering student at Government College University Faisalabad (`2023 — 2027`) and former Python Development Intern at DecodeLabs. 
 
----
-
-## Technical Expertise
-
-- **Languages:** Python, JavaScript (ES6+), SQL
-- **Backend & APIs:** FastAPI, RESTful Architecture, AsyncIO, Middleware & Auth
-- **Databases & Caching:** PostgreSQL, Redis, Cloudflare D1, MongoDB
-- **Infrastructure & Cloud:** Cloudflare Workers, Cloudflare R2, Cloudflare KV, Docker, Linux, Git
-- **ORMs & Tooling:** Drizzle ORM, Better Auth
+I focus on engineering backend systems, asynchronous APIs, and serverless edge runtimes. My work centers around predictable database schemas, low-overhead REST APIs, authentication security, and scalable cloud infrastructure using **Python (FastAPI)**, **Cloudflare Workers**, **PostgreSQL**, **Redis**, and **Docker**.
 
 ---
 
-## Professional Experience
+### Technical Focus
 
-### DecodeLabs
-**Python Development Intern**  
-*Faisalabad, Pakistan*
-
-- Developed backend API endpoints and services using Python, maintaining strict coding standards.
-- Designed database integrations and optimized relational queries for scalable application performance.
-- Contributed to API documentation, testing, and debugging workflows within a collaborative environment.
-
----
-
-## Selected Projects
-
-### DiginixIT — Digital Services Platform
-*Cloudflare Workers · D1 SQL · R2 · KV · Better Auth · Drizzle ORM*  
-[Repository](https://github.com/itsgoharrehman/diginixit-1)
-
-- Engineered a serverless digital platform architecture deployed entirely on Cloudflare's edge network.
-- Designed database schemas and executed relational queries using Drizzle ORM over Cloudflare D1.
-- Integrated media object storage via Cloudflare R2 and key-value state caching via Cloudflare KV.
-- Implemented user authentication and role-based access control policies using Better Auth.
-
-### Vault — Password Management Engine
-*Python · PostgreSQL · REST API · Security & Auth*  
-[Repository](https://github.com/itsgoharrehman/vault)
-
-- Built a password management service prioritizing encrypted payload handling and access validation.
-- Structured relational data models in PostgreSQL for user isolation and secure credential storage.
-- Developed RESTful API endpoints in Python with input validation and clean error handling.
-
-### Email Router API — Asynchronous Message Routing Service
-*Python · FastAPI · PostgreSQL · AsyncIO*  
-[Repository](https://github.com/itsgoharrehman/email-router-api)
-
-- Architected an asynchronous backend API for processing and routing email workflows under concurrent traffic.
-- Leveraged FastAPI's asynchronous runtime to minimize thread blocking and handle IO operations efficiently.
-- Structured PostgreSQL pipelines for tracking email lifecycle states and execution logs.
-
-### WireCanvas — Framework-Free Wireframing Tool
-*JavaScript (ES6+) · HTML5 · CSS3*  
-[Repository](https://github.com/itsgoharrehman/wirecanvas)
-
-- Designed a high-performance, browser-native wireframing canvas with zero third-party framework dependencies.
-- Implemented DOM manipulation and interactive canvas state management using vanilla JavaScript.
+<table>
+  <tr>
+    <td width="20%"><strong>Languages</strong></td>
+    <td width="80%">Python (3.11+), JavaScript, TypeScript, SQL</td>
+  </tr>
+  <tr>
+    <td><strong>Backend & APIs</strong></td>
+    <td>FastAPI, RESTful Architecture, AsyncIO, Express</td>
+  </tr>
+  <tr>
+    <td><strong>Databases</strong></td>
+    <td>PostgreSQL, Redis, Cloudflare D1 (SQLite), MongoDB</td>
+  </tr>
+  <tr>
+    <td><strong>Cloud & Edge</strong></td>
+    <td>Cloudflare Workers, Cloudflare R2, Cloudflare KV, Docker, Linux, Git</td>
+  </tr>
+  <tr>
+    <td><strong>Tooling & Auth</strong></td>
+    <td>Drizzle ORM, Better Auth, Pytest</td>
+  </tr>
+</table>
 
 ---
 
-## Education
+### Featured Systems
 
-### Government College University Faisalabad
-**Bachelor of Science in Software Engineering**  
-*2023 — 2027 · Faisalabad, Pakistan*
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/itsgoharrehman/diginixit-1">diginixit-1</a></h4>
+      <p>Serverless digital platform architecture featuring global edge routing, relational D1 persistence, R2 media storage, and session authentication.</p>
+      <p><code>Cloudflare Workers</code> <code>D1</code> <code>R2</code> <code>Drizzle</code> <code>Better Auth</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/itsgoharrehman/vault">vault</a></h4>
+      <p>Zero-trust password management service with PostgreSQL database persistence, token-based authorization, and encrypted credential storage.</p>
+      <p><code>Python</code> <code>PostgreSQL</code> <code>REST API</code> <code>Auth</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/itsgoharrehman/email-router-api">email-router-api</a></h4>
+      <p>Asynchronous email processing backend service engineered with FastAPI for non-blocking event handling and concurrent workflow routing.</p>
+      <p><code>Python</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>AsyncIO</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/itsgoharrehman/wirecanvas">wirecanvas</a></h4>
+      <p>Framework-free, low-latency browser wireframing canvas built with native DOM manipulation and custom canvas event loop processing.</p>
+      <p><code>JavaScript</code> <code>HTML5 Canvas</code> <code>CSS3</code></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### Experience & Education
+
+- **DecodeLabs** — Python Development Intern  
+  *Backend API development, database integrations, and async service refactoring.*
+
+- **Government College University Faisalabad** — B.S. Software Engineering  
+  *2023 — 2027 · Faisalabad, Pakistan*
+
+---
+
+### Contact
+
+- **Email:** [goharrehmanfsd260@gmail.com](mailto:goharrehmanfsd260@gmail.com)
+- **LinkedIn:** [linkedin.com/in/iamgoharrehman](https://www.linkedin.com/in/iamgoharrehman/)
+- **GitHub:** [github.com/itsgoharrehman](https://github.com/itsgoharrehman)
