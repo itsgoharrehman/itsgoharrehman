@@ -1,7 +1,6 @@
-<div align="center">
-  <h1>G O H A R &nbsp; R E H M A N</h1>
-  <p><b>SOFTWARE ENGINEER &nbsp;|&nbsp; BACKEND ARCHITECT</b></p>
-</div>
+<p align="center">
+  <img src="./header.svg" width="100%" alt="Gohar Rehman Banner">
+</p>
 
 <p align="center">
   <br>
