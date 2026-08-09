@@ -1,6 +1,6 @@
 <div align="center">
 
-# GOHAR REHMAN
+# 
 
 ### SOFTWARE ENGINEER · BACKEND DEVELOPER
 
