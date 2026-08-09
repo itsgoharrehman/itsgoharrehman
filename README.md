@@ -19,13 +19,13 @@
 
 <br>
 
-## 01_ CORE_PROFILE
+## Profile
 ---
 **Software Engineering** student at *Government College University Faisalabad* (`2023 — 2027`) and former **Python Development Intern** at *DecodeLabs*. Specializing in distributed systems, asynchronous runtimes, and scalable persistence layers.
 
 <br>
 
-## 02_ INFRASTRUCTURE_MATRIX
+## Tech Stack
 ---
 <table>
   <tbody>
@@ -54,7 +54,7 @@
 
 <br>
 
-## 03_ DEPLOYED_SYSTEMS
+## Featured Projects
 ---
 
 ### [DIGINIXIT // Digital Services Platform](https://github.com/itsgoharrehman/diginixit-1)
@@ -85,7 +85,7 @@ Zero-dependency, high-performance canvas engine using **Vanilla JavaScript**.
 
 <br>
 
-## 04_ TRANSMISSION_NODES
+## Connect
 ---
 | [LINKEDIN](https://linkedin.com/in/iamgoharrehman) | [X (TWITTER)](https://x.com/iamgoharrehman) | [TELEGRAM](https://t.me/iamgoharrehman) | [GITHUB](https://github.com/itsgoharrehman) |
 | :---: | :---: | :---: | :---: |
