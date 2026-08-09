@@ -86,8 +86,7 @@ Zero-dependency, high-performance canvas engine using **Vanilla JavaScript**.
 ## Certifications
 ---
 
-* **[Certification Name]** — *Issuing Organization* (Year)
-* **[Certification Name]** — *Issuing Organization* (Year)
+* **[IBM Back-End Development Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/E9FIGT8YZVG0)** — *IBM* (`2026`)
 
 <br>
 
