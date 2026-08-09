@@ -83,6 +83,12 @@ High-concurrency backend API for event execution built on **FastAPI**.
 Zero-dependency, high-performance canvas engine using **Vanilla JavaScript**.
 * **Core:** Custom event loop and state management over `HTML5 Canvas`.
 
+## Certifications
+---
+
+* **[Certification Name]** — *Issuing Organization* (Year)
+* **[Certification Name]** — *Issuing Organization* (Year)
+
 <br>
 
 ## Connect
