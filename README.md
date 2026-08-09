@@ -1,83 +1,96 @@
 <div align="center">
 
-# GOHAR REHMAN
+# G O H A R &nbsp; R E H M A N
 
-### SOFTWARE ENGINEER · BACKEND DEVELOPER
+*S O F T W A R E &nbsp; E N G I N E E R &nbsp; | &nbsp; B A C K E N D &nbsp; A R C H I T E C T*
 
-`Pakistan` | `goharrehmanfsd260@gmail.com`
+<br>
 
----
+| P A K I S T A N | G O H A R R E H M A N F S D 2 6 0 @ G M A I L . C O M |
+| :---: | :---: |
 
 </div>
 
-## About Me
+<br><br>
 
-Software Engineering student at **Government College University Faisalabad** (`2023 — 2027`) and former Python Development Intern at **DecodeLabs**.
+> **SYSTEM ARCHITECTURE // CLOUD INFRASTRUCTURE // HIGH-THROUGHPUT APIs**
+> 
+> Architecting resilient backend services, serverless edge runtimes, and write-optimized relational data models. Focused on low-latency execution and deterministic system behavior.
 
-I architect high-throughput backend services, serverless edge runtimes, and resilient data storage layer applications. My focus centers around write-optimized relational schemas, low-latency API handlers, and cloud infrastructure leveraging **Python (FastAPI)**, **Cloudflare Workers**, **PostgreSQL**, **Redis**, and **Docker**.
+<br>
 
+## 01 // A B O U T
+---
+**Software Engineering** student at *Government College University Faisalabad* (`2023 — 2027`) and former **Python Development Intern** at *DecodeLabs*. Specializing in distributed systems, asynchronous runtimes, and scalable persistence layers.
+
+<br>
+
+## 02 // S T A C K
+---
+<table>
+  <tbody>
+    <tr>
+      <td align="right" width="30%"><strong>LANGUAGES</strong></td>
+      <td><code>Python</code> <code>JavaScript</code> <code>TypeScript</code> <code>SQL</code></td>
+    </tr>
+    <tr>
+      <td align="right"><strong>PERSISTENCE</strong></td>
+      <td><code>PostgreSQL</code> <code>Redis</code> <code>Cloudflare D1</code> <code>MongoDB</code></td>
+    </tr>
+    <tr>
+      <td align="right"><strong>BACKEND</strong></td>
+      <td><code>FastAPI</code> <code>AsyncIO</code> <code>RESTful APIs</code></td>
+    </tr>
+    <tr>
+      <td align="right"><strong>INFRASTRUCTURE</strong></td>
+      <td><code>Cloudflare Workers</code> <code>Docker</code> <code>AWS</code> <code>Vercel</code></td>
+    </tr>
+    <tr>
+      <td align="right"><strong>TOOLING</strong></td>
+      <td><code>Drizzle ORM</code> <code>Better Auth</code> <code>Pytest</code> <code>Linux</code></td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+## 03 // I M P L E M E N T A T I O N S
 ---
 
-## Technical Stack
+### [DIGINIXIT // Digital Services Platform](https://github.com/itsgoharrehman/diginixit-1)
+Serverless edge computing architecture leveraging **Cloudflare Workers**. 
+* **Database:** Transactional schemas with `Drizzle ORM` on `Cloudflare D1`.
+* **Storage & Cache:** Object storage via `R2` and state caching via `KV`.
+* **Security:** Access control and session management configured via `Better Auth`.
 
-| Domain | Infrastructure & Technologies |
-| :--- | :--- |
-| **Core Languages** | Python, JavaScript, TypeScript, SQL |
-| **Frontend** | HTML, CSS, Bootstrap, Tailwind |
-| **Backend & APIs** | FastAPI, RESTful Architecture, AsyncIO |
-| **Databases** | PostgreSQL, Redis, Cloudflare D1 (SQLite), MongoDB |
-| **Cloud & Deployments** | Cloudflare, AWS, Netlify, Vercel, Docker, Github |
-| **Tooling & Auth** | Drizzle ORM, Better Auth, Pytest, Git, Linux |
+<br>
+
+### [VAULT // Zero-Trust Credential Engine](https://github.com/itsgoharrehman/vault)
+Password management infrastructure built on **Python** and **PostgreSQL**.
+* **Data Layer:** Isolated secret vaults and immutable audit logging.
+* **API:** RESTful architecture with rigorous input validation and token authorization.
+
+<br>
+
+### [EMAIL ROUTER // Async Event Workflow](https://github.com/itsgoharrehman/email-router-api)
+High-concurrency backend API for event execution built on **FastAPI**.
+* **Runtime:** Leveraged `AsyncIO` for non-blocking I/O under heavy traffic loads.
+* **Pipeline:** Structured `PostgreSQL` queues for message lifecycle state tracking.
+
+<br>
+
+### [WIRECANVAS // Native Wireframing](https://github.com/itsgoharrehman/wirecanvas)
+Zero-dependency, high-performance canvas engine using **Vanilla JavaScript**.
+* **Core:** Custom event loop and state management over `HTML5 Canvas`.
+
+<br>
+
+## 04 // T E L E M E T R Y
 ---
+| [LINKEDIN](https://linkedin.com/in/iamgoharrehman) | [X (TWITTER)](https://x.com/iamgoharrehman) | [TELEGRAM](https://t.me/iamgoharrehman) | [GITHUB](https://github.com/itsgoharrehman) |
+| :---: | :---: | :---: | :---: |
 
-## Featured Work
-
-### 01 / DiginixIT
-**Digital Services & Content Management Platform**  
-*Cloudflare Workers · D1 SQL · R2 Storage · KV Cache · Better Auth · Drizzle ORM*  
-[View Repository](https://github.com/itsgoharrehman/diginixit-1)
-
-- Engineered a serverless platform architecture deployed across Cloudflare's edge network.
-- Implemented transactional database migrations with Drizzle ORM on Cloudflare D1.
-- Integrated object storage via Cloudflare R2 and key-value state caching via KV.
-- Configured user sessions and access control policies using Better Auth.
-
----
-
-### 02 / Vault
-**Zero-Trust Password Management Engine**  
-*Python · PostgreSQL · REST API · Security & Auth*  
-[View Repository](https://github.com/itsgoharrehman/vault)
-
-- Designed a password management service focused on zero-trust credential security.
-- Structured relational data schemas in PostgreSQL for isolated secret vaults and audit logs.
-- Developed RESTful API endpoints in Python with input validation and token authorization.
-
----
-
-### 03 / Email Router API
-**Asynchronous Event Routing Engine**  
-*Python · FastAPI · PostgreSQL · AsyncIO*  
-[View Repository](https://github.com/itsgoharrehman/email-router-api)
-
-- Constructed an asynchronous backend API for processing and routing email event workflows.
-- Utilized FastAPI's async runtime to handle non-blocking IO under concurrent traffic.
-- Built structured PostgreSQL pipelines for tracking message lifecycle states and execution logs.
-
----
-
-### 04 / WireCanvas
-**Framework-Free Wireframing Tool**  
-*JavaScript (ES6+) · HTML5 Canvas · CSS3*  
-[View Repository](https://github.com/itsgoharrehman/wirecanvas)
-
-- Built a high-performance browser-native wireframing canvas with zero runtime dependencies.
-- Implemented canvas event loops and state manipulation using vanilla JavaScript.
-
-## Connect
-
-- **Email:** [goharrehmanfsd260@gmail.com](mailto:goharrehmanfsd260@gmail.com)
-- **LinkedIn:** [linkedin.com/in/iamgoharrehman](https://www.linkedin.com/in/iamgoharrehman/)
-- **X (Twitter):** [x.com/iamgoharrehman](https://x.com/iamgoharrehman)
-- **Telegram:** [t.me/iamgoharrehman](https://t.me/iamgoharrehman)
-- **GitHub:** [github.com/itsgoharrehman](https://github.com/itsgoharrehman)
+<br>
+<div align="center">
+  <sub><i>INITIALIZED // EXECUTING SEQUENCE</i></sub>
+</div>
