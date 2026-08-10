@@ -1,15 +1,3 @@
-<p align="center">
-  <img src="./header.svg" width="100%" alt="Gohar Rehman Banner">
-</p>
-
-<p align="center">
-  <br>
-  Architecting resilient backend services, serverless edge runtimes, and write-optimized relational data models. Focused on low-latency execution and deterministic system behavior.
-  <br><br>
-</p>
-
-<br>
-
 <h3 align="center">P R O F I L E</h3>
 
 <p align="center">
